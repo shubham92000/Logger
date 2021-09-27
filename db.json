@@ -2,24 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "changed harddrive on workstation 005",
+      "message": "added log 8",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "sam smith"
+      "tech": "Sam Smith",
+      "date": "2021-09-27T11:49:22.195Z"
     },
     {
       "id": 2,
-      "message": "workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "john doe"
-    },
-    {
-      "id": 3,
-      "message": "changed memory on workstation 050",
+      "message": "added log 5",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "sara wilson"
+      "tech": "Sara Williams",
+      "date": "2021-09-27T11:22:35.699Z"
     }
   ],
   "techs": [
