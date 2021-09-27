@@ -13,6 +13,13 @@
       "attention": false,
       "tech": "Sara Williams",
       "date": "2021-09-27T11:22:35.699Z"
+    },
+    {
+      "message": "added log 9",
+      "attention": false,
+      "date": "2021-09-27T17:42:24.554Z",
+      "tech": "Sam Smith",
+      "id": 3
     }
   ],
   "techs": [
