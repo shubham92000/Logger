@@ -20,6 +20,13 @@
       "date": "2021-09-27T17:42:24.554Z",
       "tech": "Sam Smith",
       "id": 3
+    },
+    {
+      "message": "added log2",
+      "attention": true,
+      "date": "2021-09-28T11:24:03.255Z",
+      "tech": "Sara Wilson",
+      "id": 4
     }
   ],
   "techs": [
