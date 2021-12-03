@@ -13,6 +13,7 @@ A client side web application built with React and Redux . The web app offers a 
     $ git clone https://github.com/shubham92000/Logger
     $ cd Logger
     $ npm install
+    $ npm i json-server
 
 ## Running the project
 
