@@ -1,4 +1,4 @@
-# Project Title
+# Title
 
 A client side web application built with React and Redux . The web app offers a page where in the members of a group / firm can add or update about the ongoing problems in the group / firm and can also add new technicians in the group / firm
 
@@ -18,7 +18,7 @@ A client side web application built with React and Redux . The web app offers a 
 
     $ npm run dev
 
-## Simple build for production
+## Build for production
 
     $ npm run build
 
